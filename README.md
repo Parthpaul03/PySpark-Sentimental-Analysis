@@ -7,7 +7,6 @@ This repository contains a Streamlit-based web application for performing sentim
 - **Data Preview**: Displays a preview of the fetched comments along with their authors, like counts, and sentiment scores.
 - **Sentiment Distribution**: Shows a bar chart representing the distribution of sentiments (positive, neutral, negative) among the comments.
 - **Most Liked Comments**: Lists the top 10 most liked comments with their respective sentiment scores.
-- **Sentiment Over Likes**: Displays a scatter plot to analyze the relationship between the number of likes and sentiment scores.
 - **Word Cloud**: Generates a word cloud of the most frequent words in the comments.
 - **Top Words by Sentiment**: Displays bar charts of the most frequent words used in comments for each sentiment category.
 - **Sentiment by Like Count**: Visualizes the distribution of like counts across different sentiment categories using a box plot.
