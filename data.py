@@ -18,7 +18,7 @@ def get_dataset(video_id):
         .getOrCreate()
     api_service_name = "youtube"
     api_version = "v3"
-    DEVELOPER_KEY = "AIzaSyC_0RVqlHp4M5_LSBZNEo3GEkUa3PE-LiY"
+    DEVELOPER_KEY = "Add Your Developer Key"
 
     youtube = googleapiclient.discovery.build(
         api_service_name, api_version, developerKey=DEVELOPER_KEY)
