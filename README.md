@@ -87,10 +87,4 @@ This project uses the following open-source libraries:
 - [Google API Python Client](https://github.com/googleapis/google-api-python-client)
 - [PySpark](https://spark.apache.org/docs/latest/api/python/)
 
-## Contact
 
-For any questions or suggestions, feel free to contact [Raghavendra Bhargava](mailto:raghavendra.bhargava2004@gmail.com).
-
----
-
-Feel free to customize this description further to fit your specific needs and preferences.
